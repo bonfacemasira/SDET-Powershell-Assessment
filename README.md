@@ -1,4 +1,4 @@
-# SDET-Powershell-Assessmet
+# SDET-Powershell-Assessment
 
 Filter changed files
  10  
